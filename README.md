@@ -90,7 +90,6 @@ The project leverages various data science tools and libraries for data processi
 
 ## Project Structure
 
-    ```
     Amazon_Prime_Data_Analysis/
     │-- data/
     │   │-- titles.csv
@@ -99,7 +98,8 @@ The project leverages various data science tools and libraries for data processi
     │   │-- Amazon_Prime_Data_Analysis_EDA.ipynb
     │-- README.md
     │-- requirements.txt
-    ```
+
+---
 
 ## How to Use the Project
 
