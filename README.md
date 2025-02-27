@@ -12,9 +12,11 @@ Individual
 
 ## Project Summary
 
-In today's competitive streaming industry, platforms like ***Amazon Prime Video*** are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
+In today's competitive streaming industry, platforms like ***Amazon Prime Video** are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
 
 This **Amazon Prime TV Shows and Movies Data Analysis** project focuses on exploring and analyzing content available on ***Amazon Prime***. The dataset consists of two CSV files: `titles.csv` and `credits.csv`, providing comprehensive information on movies, TV shows, ratings, popularity, genres, and cast/crew details. The dataset specifically contains data available in the **United States**.
+
+By performing an in-depth analysis, this project aims to uncover insights into the platform's content distribution, user preferences, and trends over the years. It enables stakeholders to make data-driven decisions to enhance content recommendations and acquisitions.
 
 ---
 
@@ -48,33 +50,56 @@ Contains details about the cast and crew involved, including:
 
 - Role (actor, director, etc.)
 
-- Title ID (linking to titles.csv)
+- Title ID (linking to `titles.csv`)
+
+The combination of these datasets allows for a comprehensive exploration of ***Amazon Prime***'s content offerings.
 
 ---
 
-## Objectives
+## Objectives of the Project
 
-- Perform data cleaning and preprocessing.
+- Perform data cleaning and preprocessing to handle missing and inconsistent values.
 
-- Explore trends in movie and TV show releases.
+- Explore trends in movie and TV show releases over the years.
 
-- Analyze IMDB ratings and audience preferences.
+- Analyze IMDB ratings to understand the distribution and audience preferences.
 
-- Identify top genres and popular actors/directors.
+- Identify the most popular genres and content types.
 
-- Draw insights for content strategy.
+- Examine the influence of top actors and directors on content success.
+
+- Discover patterns in regional content and its popularity.
+
+- Utilize visualizations to present findings effectively.
 
 ---
 
 ## Technologies & Libraries Used
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+The project leverages various data science tools and libraries for data processing, analysis, and visualization:
 
-- **Jupyter Notebook**
+- **Python** for data handling and analysis.
 
-- **Data Visualization** (Matplotlib, Seaborn)
+- **Jupyter Notebook** for interactive data exploration.
+
+- **Pandas** and **NumPy** for data manipulation.
+
+- **Matplotlib** and **Seaborn** for data visualization.
 
 ---
+
+## Project Structure
+
+    ```
+    Amazon_Prime_Data_Analysis/
+    │-- data/
+    │   │-- titles.csv
+    │   │-- credits.csv
+    │-- notebooks/
+    │   │-- Amazon_Prime_Data_Analysis_EDA.ipynb
+    │-- README.md
+    │-- requirements.txt
+    ```
 
 ## How to Use the Project
 
