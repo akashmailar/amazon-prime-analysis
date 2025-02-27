@@ -80,21 +80,21 @@ Contains details about the cast and crew involved, including:
 
 1. Clone this repository:
 
-  ```
-  git clone https://github.com/akashmailar/amazon-prime-analysis.git
-  ```
+    ```
+      git clone https://github.com/akashmailar/amazon-prime-analysis.git
+    ```
 
 2. Install dependencies:
 
-  ```
-  pip install -r requirements.txt
-  ```
+    ```
+      pip install -r requirements.txt
+    ```
 
 3. Run the Jupyter Notebook to explore the analysis:
 
-  ```
-  jupyter notebook Amazon_Prime_Data_Analysis_EDA.ipynb
-  ```
+    ```
+      jupyter notebook Amazon_Prime_Data_Analysis_EDA.ipynb
+    ```
 
 ---
 
@@ -122,7 +122,7 @@ Contains details about the cast and crew involved, including:
 
 ## Author
 
-- Akash Mailar (https://github.com/akashmailar)
+- [Akash Mailar](https://github.com/akashmailar)
 
 ---
 
