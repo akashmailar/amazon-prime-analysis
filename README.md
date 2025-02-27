@@ -91,17 +91,17 @@ The project leverages various data science tools and libraries for data processi
 ## Project Structure
 
     Amazon_Prime_Data_Analysis/
-    │-- data/
+    │-- datasets/
     │   │-- titles.csv
     │   │-- credits.csv
-    │-- notebooks/
-    │   │-- Amazon_Prime_Data_Analysis_EDA.ipynb
+    │-- Amazon_Prime_Data_Analysis_EDA.ipynb
+    |-- Amazon Prime TV Shows and Movies.ppt
     │-- README.md
     │-- requirements.txt
 
 ---
 
-## How to Use the Project
+## Installation and Usage
 
 1. Clone this repository:
 
@@ -109,13 +109,19 @@ The project leverages various data science tools and libraries for data processi
       git clone https://github.com/akashmailar/amazon-prime-analysis.git
     ```
 
-2. Install dependencies:
+2. Navigate into the project directory:
+
+   ```
+     cd amazon-prime-analysis
+   ```
+
+3. Install the required dependencies:
 
     ```
       pip install -r requirements.txt
     ```
 
-3. Run the Jupyter Notebook to explore the analysis:
+4. Run the Jupyter Notebook to explore the analysis:
 
     ```
       jupyter notebook Amazon_Prime_Data_Analysis_EDA.ipynb
@@ -123,37 +129,55 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Results & Insights
+## Key Findings & Insights
 
-- The most common genres on Amazon Prime.
+- **Genre Popularity:** Action, Drama, and Comedy are the most frequently occurring genres.
 
-- Trends in movie and TV show releases over the years.
+- **Release Trends:** A significant increase in movie and TV show production over the last decade.
 
-- Popular actors and directors based on available data.
+- **Top Directors & Actors:** Identified the most frequently featured actors and directors in the dataset.
 
-- Distribution of IMDB ratings and their impact on content selection.
+- **IMDB Ratings:** Distribution of ratings showed a higher proportion of well-rated content compared to lower-rated ones.
 
----
-
-## Conclusions & Future Work
-
-- Further analysis could include sentiment analysis on user reviews.
-
-- Comparing Amazon Prime's content strategy with competitors (Netflix, Hulu, etc.).
-
-- Using machine learning to predict movie success based on features.
+- **Regional Content Trends:** Analysis of language distribution and regional content production.
 
 ---
 
-## Author
+## Future Enhancements
 
-- [Akash Mailar](https://github.com/akashmailar)
+- Perform a **sentiment analysis** on user reviews to gauge audience reactions.
+
+- Compare ***Amazon Prime***’s content with competitors like **Netflix and Hulu**.
+
+- Utilize **machine learning models** to predict movie success based on historical data.
+
+- Incorporate **real-time data scraping** to keep the dataset up to date.
+
+- Explore **recommendation system approaches** to suggest content based on user preferences.
+
+---
+
+## Author & Acknowledgements
+
+- Author: [Akash Mailar](https://github.com/akashmailar)
+
+- Data Source: The dataset was obtained from publicly available sources related to ***Amazon Prime***. 
 
 ---
 
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Contact & Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+- GitHub: [Akash Mailar](https://github.com/akashmailar)
+
+- Email: akashmailar16@gmail.com
 
 ---
 
