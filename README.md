@@ -94,7 +94,8 @@ The project leverages various data science tools and libraries for data processi
     │-- datasets/
     │   │-- titles.csv
     │   │-- credits.csv
-    │-- Amazon_Prime_Data_Analysis_EDA.ipynb
+    |-- Notebooks/
+    │   |-- Amazon_Prime_Data_Analysis_EDA.ipynb
     |-- Amazon Prime TV Shows and Movies.ppt
     │-- README.md
     │-- requirements.txt
