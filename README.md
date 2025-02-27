@@ -12,7 +12,7 @@ Individual
 
 ## Project Summary
 
-In today's competitive streaming industry, platforms like ***Amazon Prime Video** are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
+In today's competitive streaming industry, platforms like ***Amazon Prime Video*** are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
 
 This **Amazon Prime TV Shows and Movies Data Analysis** project focuses on exploring and analyzing content available on ***Amazon Prime***. The dataset consists of two CSV files: `titles.csv` and `credits.csv`, providing comprehensive information on movies, TV shows, ratings, popularity, genres, and cast/crew details. The dataset specifically contains data available in the **United States**.
 
