@@ -9,6 +9,7 @@ Exploratory Data Analysis (EDA)
 
 Individual
 
+![Amazon Prime](https://github.com/akashmailar/amazon-prime-analysis/blob/main/Prime_Video_Img.png)
 
 ## Project Summary
 
