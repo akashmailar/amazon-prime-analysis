@@ -1,17 +1,12 @@
 # Amazon Prime TV Shows And Movies Data Analysis
 
-## Project Type
-
-Exploratory Data Analysis (EDA)
-
-
-## Contribution
-
-Individual
-
 ![Amazon Prime](https://github.com/akashmailar/amazon-prime-analysis/blob/main/Prime_Video_Img.png)
 
-## Project Summary
+### 📌 Project Type: Exploratory Data Analysis (EDA)
+
+### 👤 Contribution: Individual
+
+## 📖 Project Summary
 
 In today's competitive streaming industry, platforms like ***Amazon Prime Video*** are constantly expanding their content libraries to cater to diverse audiences. With a growing number of shows and movies available, data-driven insights play a crucial role in understanding trends, audience preferences, and content strategy.
 
@@ -21,7 +16,7 @@ By performing an in-depth analysis, this project aims to uncover insights into t
 
 ---
 
-## Dataset Overview
+## 📂 Dataset Overview
 
 **1. `titles.csv`**
 
@@ -57,7 +52,7 @@ The combination of these datasets allows for a comprehensive exploration of ***A
 
 ---
 
-## Objectives of the Project
+## 🎯 Objectives of the Project
 
 - Perform data cleaning and preprocessing to handle missing and inconsistent values.
 
@@ -75,7 +70,7 @@ The combination of these datasets allows for a comprehensive exploration of ***A
 
 ---
 
-## Technologies & Libraries Used
+## 🛠️ Technologies & Libraries Used
 
 The project leverages various data science tools and libraries for data processing, analysis, and visualization:
 
@@ -89,7 +84,7 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
     Amazon_Prime_Data_Analysis/
     │-- datasets/
@@ -103,27 +98,27 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Installation and Usage
+## ⚙️ Installation and Usage
 
-1. Clone this repository:
+1. **Clone this repository:**
 
     ```
       git clone https://github.com/akashmailar/amazon-prime-analysis.git
     ```
 
-2. Navigate into the project directory:
+2. **Navigate into the project directory:**
 
    ```
      cd amazon-prime-analysis
    ```
 
-3. Install the required dependencies:
+3. **Install the required dependencies:**
 
     ```
       pip install -r requirements.txt
     ```
 
-4. Run the Jupyter Notebook to explore the analysis:
+4. **Run the Jupyter Notebook to explore the analysis:**
 
     ```
       jupyter notebook Amazon_Prime_Data_Analysis_EDA.ipynb
@@ -131,7 +126,7 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Key Findings & Insights
+## 📊 Key Findings & Insights
 
 - **Genre Popularity:** Action, Drama, and Comedy are the most frequently occurring genres.
 
@@ -145,7 +140,7 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Future Enhancements
+## 📌 Future Enhancements
 
 - Perform a **sentiment analysis** on user reviews to gauge audience reactions.
 
@@ -159,7 +154,7 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## Author & Acknowledgements
+## 🤝 Author & Acknowledgements
 
 - Author: [Akash Mailar](https://github.com/akashmailar)
 
@@ -167,20 +162,20 @@ The project leverages various data science tools and libraries for data processi
 
 ---
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-## Contact & Contributions
+## 📞 Contact & Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-- GitHub: [Akash Mailar](https://github.com/akashmailar)
+- **GitHub:** [Akash Mailar](https://github.com/akashmailar)
 
-- Email: akashmailar16@gmail.com
+- **Email:** akashmailar16@gmail.com
 
 ---
 
-### Thank You!
+## 🙏 Thank You!
